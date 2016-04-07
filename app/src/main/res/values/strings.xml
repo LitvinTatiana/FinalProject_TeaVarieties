@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Tea Varieties</string>
+    <string name="mainActivityHeader">If you are cold, tea will warm you. If you are heated, it will cool you. If you are depressed it will cheer you.</string>
+        <string name="greenHeader">
+            Green tea\nGreen tea is processed and grown in a variety of ways, depending on the type of green tea desired.
+            As a result of these methods, maximum amounts of polyphenols and volatile organic compounds are retained,
+            affecting aroma and taste. \nGreen tea has been used as a medicine for thousands of years.
+        </string>
+        <string name="greenTeaHeader">5 Benefits of Green Tea:</string>
+        <string name="greenTeastr">1. Green tea increases the metabolism.
+            \n2. It may also protect against the formation of clots.
+            \n3. Relaxing and tranquilizing effect.
+            \n4. Anti-viral and Anti-bacterial.
+            \n5. Green tea reduces bad cholesterol in the blood.</string>
+
+    <string name="BlackHeader">If you are cold, tea will warm you. Ih uou are heated, it will cool you. If you ate depressed it will cheer you.</string>
+        <string name="blackHeader">
+            Black tea\nBlack tea is a type of tea that is more oxidized than oolong, green and white teas.
+            Black tea is generally stronger in flavor than the less oxidized teas.
+            While green tea usually loses its flavor within a year, black tea retains its flavour for several years.
+        </string>
+        <string name="blackTeaHeader">5 Benefits of Black Tea:</string>
+        <string name="blackTeastr">1. Stress Relief.
+            \n2. Antioxidants that help block DNA damage associated with tobacco or other toxic chemicals.
+            \n3. Better Immune System: Black tea contains alkylamine antigens that help boost your immune response.
+            \n4. Increased Energy: Tea can help enhance blood flow to the brain without over-stimulating the heart.
+            \n5. A Better Heart.
+            </string>
+
+        <string name="whiteHeader">
+            White tea\nWhite tea comes from the buds and leaves of the Camellia sinensis plant.
+            The leaves and buds are allowed to wither and dry in natural sun.
+            The name "white tea" derives from the fine silvery-white hairs on the unopened buds of the tea plant,
+            which gives the plant a whitish appearance.
+        </string>
+        <string name="whiteTeaHeader">5 Benefits of White Tea:</string>
+        <string name="whiteTeastr">1. Helps burn fat: The anti-oxidant features of the tea help speed up your metabolic rate,
+            resulting in energy being burned, even when not active.
+            \n2. Improves immunity: Fights against flu and colds.
+            \n3. Re-hydrates: Going against common beliefs that tea dehydrates you,
+            white tea has been found to have similar re-hydration effects to our old friend H2O.
+            \n4. Neurological: Has been shown to prevent degenerative and neurological diseases such as Alzheimer’s.
+            \n5. Helps Improve Skin Conditions</string>
+
+
+        <string name="redHeader">
+            Red Tea\nIt has a tart, cranberry-like flavour, and sugar is often added to sweeten it.
+            The tea contains vitamin C and minerals and is used traditionally as a mild medicine.
+            In west Sudan a white hibiscus flower is favoured for its bitter taste and is customarily served to guests.
+        </string>
+        <string name="redTeaHeader">5 Benefits of Red Tea:</string>
+        <string name="redTeastr">1. Reduces High Blood Pressure
+            \n2. Helps Lower Cholesterol.
+            \n3. Beneficial Tea for Diabetics.
+            \n4. Helps Improve Skin Conditions.
+            \n5. Offers Liver Protection. </string>
+</resources>
